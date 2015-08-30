@@ -1,0 +1,10 @@
+"*":
+  "exception-reporting":
+    userId: "c9444c2a-6d6b-5aee-445e-2d68057f2310"
+  welcome:
+    showOnStartup: false
+  core: {}
+  editor:
+    invisibles: {}
+  "keyboard-localization":
+    useKeyboardLayout: "pl_PL"
