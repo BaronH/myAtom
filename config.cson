@@ -3,7 +3,11 @@
     userId: "c9444c2a-6d6b-5aee-445e-2d68057f2310"
   welcome:
     showOnStartup: false
-  core: {}
+  core:
+    themes: [
+      "one-dark-ui"
+      "atom-dark-syntax"
+    ]
   editor:
     invisibles: {}
   "keyboard-localization":
