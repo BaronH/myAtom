@@ -12,3 +12,4 @@
     invisibles: {}
   "keyboard-localization":
     useKeyboardLayout: "pl_PL"
+  "tree-view": {}
